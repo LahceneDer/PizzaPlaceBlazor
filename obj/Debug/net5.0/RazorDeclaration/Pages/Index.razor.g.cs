@@ -91,7 +91,7 @@ using PizzaPlace.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 74 "C:\Users\PC\RiderProjects\PizzaPlace\PizzaPlace\Pages\Index.razor"
+#line 96 "C:\Users\PC\RiderProjects\PizzaPlace\PizzaPlace\Pages\Index.razor"
  
     private State State { get; } = new State();
 
@@ -110,6 +110,10 @@ using PizzaPlace.Shared;
     
     private void RemoveFromBasket(int pos)
         => State.Basket.RemoveAt(pos);
+    private void PlaceOrder()
+    {
+        Console.WriteLine("Placing order");
+    }
 
 #line default
 #line hidden
