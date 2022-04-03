@@ -82,6 +82,13 @@ using PizzaPlace.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\PC\RiderProjects\PizzaPlace\PizzaPlace\_Imports.razor"
+using PizzaPlace.Client;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -91,7 +98,7 @@ using PizzaPlace.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 96 "C:\Users\PC\RiderProjects\PizzaPlace\PizzaPlace\Pages\Index.razor"
+#line 120 "C:\Users\PC\RiderProjects\PizzaPlace\PizzaPlace\Pages\Index.razor"
  
     private State State { get; } = new State();
 

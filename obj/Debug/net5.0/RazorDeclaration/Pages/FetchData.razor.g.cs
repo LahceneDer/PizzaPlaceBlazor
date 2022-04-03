@@ -83,6 +83,13 @@ using PizzaPlace.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "C:\Users\PC\RiderProjects\PizzaPlace\PizzaPlace\_Imports.razor"
+using PizzaPlace.Client;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\PC\RiderProjects\PizzaPlace\PizzaPlace\Pages\FetchData.razor"
 using PizzaPlace.Data;
 

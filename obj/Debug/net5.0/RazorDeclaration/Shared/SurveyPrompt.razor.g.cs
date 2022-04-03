@@ -82,6 +82,13 @@ using PizzaPlace.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\PC\RiderProjects\PizzaPlace\PizzaPlace\_Imports.razor"
+using PizzaPlace.Client;
+
+#line default
+#line hidden
+#nullable disable
     public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
